@@ -18,4 +18,4 @@ Clone into ~/.middleman (you'll have to create this directory if it's not alread
 1. $ `git clone git://github.com/skatkov/middleman-prototype.git ~/.middleman/prototype`
 2. $ `middleman init my_new_project --template=prototype`
 
-For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/) or feel free to hit me up on [Twitter](http://twitter.com/vocino).
+For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/)
