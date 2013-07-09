@@ -1,7 +1,7 @@
 html5-prototype
 =============
 ## Goal ##
-Starting point for website prototyping, gather all the tools that will help doing presenting first wireframes as fast as possible. 
+Starting point for website prototyping. All the tools that help presenting first wireframes ASAP. 
 
 ## Components ##
 - bootstrap - scss, js version
@@ -14,9 +14,9 @@ Starting point for website prototyping, gather all the tools that will help doin
 
 ## Installation ##
 
-Clone into ~/.middleman (you'll have to create this directory if it's not already there). You can then use it with the `--template` flag on `middleman init`.
+Clone into ~/.middleman (you'll have to create this directory yourself). You can then use it with the `--template` flag on `middleman init`.
 
 1. $ `git clone git://github.com/skatkov/middleman-prototype.git ~/.middleman/prototype`
 2. $ `middleman init my_new_project --template=prototype`
 
-For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/welcome/)
+For more help follow [Middleman's project template instructions](http://middlemanapp.com/getting-started/)
